@@ -22,9 +22,6 @@
 ---
 
 ### 📫 Connect with Me
-
-<h3 align="left"><b>Connect with me</b></h3>
-
 <p align="left">
   <b>📧 bdash3339@gmail.com</b>
 </p>
