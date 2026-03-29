@@ -1,11 +1,11 @@
-<!-- 🌌 CUSTOM BANNER -->
+<!-- 🌌 PREMIUM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Bikash%20Dash&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=200&section=header&text=Bikash%20Dash&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 🔥 TYPING ANIMATION -->
+<!-- ⚡ TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+AWS;Building+Scalable+Applications;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+AWS;Building+Scalable+Systems;Always+Learning+New+Tech" />
 </p>
 
 <!-- 🐍 SNAKE -->
@@ -19,7 +19,17 @@
 - 💼 Working at **Tech Mahindra**
 - 🌱 Learning **Microservices, Cloud, System Design**
 - 🔥 Passionate about scalable backend systems
-- 🤝 Open to collaborations
+- 🤝 Open to collaborations & opportunities
+
+---
+
+## 🤖 AI Chatbot (Try Me)
+
+<p align="center">
+  <a href="https://your-ai-chat-app-link.com">
+    <img src="https://img.shields.io/badge/🤖%20Chat%20with%20My%20AI-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -31,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 Live GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bikashdasha&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -54,6 +64,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=BikashDash_Portfolio&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=ai-chat-project&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Coding Activity (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bikashdasha&theme=tokyonight" />
 </p>
 
 ---
