@@ -91,7 +91,7 @@
 # 📄 RESUME & PORTFOLIO
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/bikashdasha/bikashdasha/main/assets/Bikash_Dash_Resume.pdf" target="_blank">
+  <a href="https://github.com/bikashdasha/bikashdasha/blob/main/Bikash_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge" />
   </a>
 </p>
