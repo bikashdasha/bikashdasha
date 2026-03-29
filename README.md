@@ -54,10 +54,6 @@
 <h4 align="center">“Consistency beats intensity — every single time.”</h4>
 
 
-### 📊 Contribution Activity
-
-<p align="center">
-  ---
 
 ### 📊 Contribution Activity
 
