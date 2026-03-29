@@ -52,3 +52,10 @@
 ---
 
 <h4 align="center">“Consistency beats intensity — every single time.”</h4>
+
+
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashdasha&theme=github-compact&hide_border=true" />
+</p>
