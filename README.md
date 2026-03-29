@@ -57,21 +57,23 @@
 
 # 🚀 FEATURED PROJECTS
 
+# 🚀 FEATURED PROJECTS
+
 <table align="center">
 <tr>
+
 <td align="center" width="300">
   <a href="https://bikash-dash-portfolio.vercel.app/">
-    <img src="https://github.com/bikashdasha/bikashdasha/blob/main/Screenshot%202026-03-29%20120719.png" />
+    <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/main/Screenshot%202026-03-29%20120719.png" width="300"/>
   </a>
 </td>
 
 <td align="center" width="300">
-  <a href="https://github.com/bikashdasha/ai-chat-project">
+  <a href="https://github.com/bikashdasha/Cricket-team">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=ai-chat-project&theme=tokyonight" />
   </a>
 </td>
-</tr>
-<tr>
+
 </tr>
 </table>
 
