@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Generate 3D Contribution
-        uses: yoshi389111/github-profile-3d-contrib@v0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: bikashdasha
