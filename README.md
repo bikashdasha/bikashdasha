@@ -61,7 +61,7 @@
 <tr>
 <td align="center" width="300">
   <a href="https://bikash-dash-portfolio.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=BikashDash_Portfolio&theme=tokyonight" />
+    <img src="https://github.com/bikashdasha/bikashdasha/blob/main/Screenshot%202026-03-29%20120719.png" />
   </a>
 </td>
 
@@ -71,19 +71,7 @@
   </a>
 </td>
 </tr>
-
 <tr>
-<td align="center" width="300">
-  <a href="https://github.com/bikashdasha/Dashboard-main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=Dashboard-main&theme=tokyonight" />
-  </a>
-</td>
-
-<td align="center" width="300">
-  <a href="https://github.com/bikashdasha/bikash-tech-articles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=bikash-tech-articles&theme=tokyonight" />
-  </a>
-</td>
 </tr>
 </table>
 
