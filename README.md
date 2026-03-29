@@ -1,25 +1,25 @@
-<!-- 🔝 Typing Animation -->
+<!-- 🌌 CUSTOM BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Bikash+Dash;Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+AWS;Building+Scalable+Web+Apps" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Bikash%20Dash&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 🐍 Snake Banner -->
+<!-- 🔥 TYPING ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/output/github-contribution-grid-snake-dark.svg" width="700"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+AWS;Building+Scalable+Applications;Always+Learning+New+Tech" />
 </p>
 
-<br>
-
-<h1 align="center">👋 Hi, I'm Bikash Dash</h1>
-<h3 align="center">💻 Java Full Stack Developer | Spring Boot | Angular</h3>
+<!-- 🐍 SNAKE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/output/github-contribution-grid-snake-dark.svg" width="650"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 - 💼 Working at **Tech Mahindra**
-- 🌱 Learning **Microservices, Cloud & System Design**
-- 🔥 Skilled in **Java, Spring Boot, Angular**
-- 🤝 Open for collaboration & opportunities
+- 🌱 Learning **Microservices, Cloud, System Design**
+- 🔥 Passionate about scalable backend systems
+- 🤝 Open to collaborations
 
 ---
 
@@ -31,22 +31,29 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bikashdasha&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashdasha&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bikashdasha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashdasha&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashdasha&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashdasha&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=BikashDash_Portfolio&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=ai-chat-project&theme=tokyonight" />
 </p>
 
 ---
