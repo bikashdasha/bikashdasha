@@ -1,6 +1,5 @@
-<!-- 🔥 TOP GAME ANIMATION -->
 <p align="center">
-  <img src="https://github.com/bikashdasha/bikashdasha/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://github.com/bikashdasha/bikashdasha/blob/gh-pages/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Bikash Dash</h1>
