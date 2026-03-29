@@ -57,5 +57,5 @@
 ### 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashdasha&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashdasha&theme=react-dark" />
 </p>
