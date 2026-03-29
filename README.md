@@ -1,3 +1,7 @@
+<!-- 🔝 Snake Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/output/github-contribution-grid-snake-dark.svg" width="700"/>
+</p>
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/output/github-contribution-grid-snake-dark.svg" width="550"/>
