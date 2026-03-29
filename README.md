@@ -1,4 +1,4 @@
-<div align="center" style="margin: 25px 0;">
+<div align="center" style="margin: 125px 0;">
   <img 
     src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/gh-pages/profile-night-rainbow.svg" 
     alt="Bikash Dash Banner" 
