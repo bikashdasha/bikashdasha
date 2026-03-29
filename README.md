@@ -60,7 +60,7 @@
 <table align="center">
 <tr>
 <td align="center" width="300">
-  <a href="https://github.com/bikashdasha/BikashDash_Portfolio">
+  <a href="https://bikash-dash-portfolio.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=BikashDash_Portfolio&theme=tokyonight" />
   </a>
 </td>
