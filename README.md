@@ -1,12 +1,8 @@
-<div align="center" style="margin: 0 0 30px 0;">
+<div align="center">
   <img 
-    src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/gh-pages/profile-night-rainbow.svg" 
-    alt="Bikash Dash Banner" 
-    style="width: 100%; 
-           max-width: 100%; 
-           height: 240px; 
-           object-fit: cover; 
-           display: block;"
+    src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/output/github-contribution-grid-snake-dark.svg" 
+    alt="Snake animation"
+    width="100%"
   />
 </div>
 <h1 align="center">👋 Hi, I'm Bikash Dash</h1>
