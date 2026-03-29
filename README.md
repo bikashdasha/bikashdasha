@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="https://bikash-dash-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-black?style=for-the-badge" />
   </a>
 </p>
