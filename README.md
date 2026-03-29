@@ -3,10 +3,6 @@
   <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/output/github-contribution-grid-snake-dark.svg" width="700"/>
 </p>
 <br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/output/github-contribution-grid-snake-dark.svg" width="550"/>
-</p>
-<br>
 <h1 align="center">👋 Hi, I'm Bikash Dash</h1>
 
 <h3 align="center">💻 A Passionate Java Full Stack Developer from India</h3>
