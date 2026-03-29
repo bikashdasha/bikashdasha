@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/output/github-contribution-grid-snake-dark.svg" width="650"/>
+  <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/output/github-contribution-grid-snake-dark.svg" width="850"/>
 </p>
 <br>
 <h1 align="center">👋 Hi, I'm Bikash Dash</h1>
