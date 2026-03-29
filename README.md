@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/gh-pages/profile-season-animate.svg" /></p>
+  <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/gh-pages/profile-night-rainbow.svg" />
+</p>
 <h1 align="center">👋 Hi, I'm Bikash Dash</h1>
 
 <h3 align="center">💻 A Passionate Java Full Stack Developer from India</h3>
