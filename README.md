@@ -64,13 +64,13 @@
 
 <td align="center" width="300">
   <a href="https://bikash-dash-portfolio.vercel.app/">
-    <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/main/Screenshot%202026-03-29%20120719.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/main/Screenshot%202026-03-29%20120719.png" width="150"/>
   </a>
 </td>
 
 <td align="center" width="300">
   <a href="https://github.com/bikashdasha/Cricket-team">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=ai-chat-project&theme=tokyonight" />
+    <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/main/cricket.png" width="150" />
   </a>
 </td>
 
