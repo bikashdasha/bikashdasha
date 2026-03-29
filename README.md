@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/gh-pages/profile-night-rainbow.svg" width="400"/>
+  <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/gh-pages/profile-night-rainbow.svg" width="800" height="400"/>
 </p>
 <h1 align="center">👋 Hi, I'm Bikash Dash</h1>
 
