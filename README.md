@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/gh-pages/profile-night-rainbow.svg" style="width: 80%; max-width: 800px;"/>
+  <img 
+    src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/gh-pages/profile-green-animate.svg"
+    style="width: 100%; height: 180px; object-fit: cover;"
+  />
 </p>
 <h1 align="center">👋 Hi, I'm Bikash Dash</h1>
 
