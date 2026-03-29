@@ -1,13 +1,12 @@
 <!-- 🌌 PREMIUM NEON HERO -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Bikash%20Dash&fontSize=48&fontColor=00F7FF&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=230&section=header&text=Bikash%20Dash&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=65&descColor=FFFFFF" />
 </p>
 
 <!-- ⚡ TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+AWS;Building+Modern+Web+Applications;Welcome+to+my+GitHub+Portfolio" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=000000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+AWS;Building+Modern+Web+Applications;Clean+Code+%7C+Scalable+Systems" />
 </p>
 
 <!-- 🐍 SNAKE -->
@@ -18,8 +17,7 @@
 
 ---
 
-# 👨‍💻 ABOUT ME
-
+<h2 align="center">👨‍💻 ABOUT ME</h2>
 <p align="center">
 💼 Java Full Stack Developer at <b>Tech Mahindra</b> <br/>
 🌱 Learning Microservices, Cloud & System Design <br/>
@@ -29,7 +27,7 @@
 
 ---
 
-# 🧠 TECH STACK
+<h2 align="center"> 🧠 TECH STACK </h2>  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,mysql,git,aws" />
@@ -37,7 +35,7 @@
 
 ---
 
-# 📊 DASHBOARD
+<h2 align="center"> 📊 DASHBOARD </h2>  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bikashdasha&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
@@ -47,7 +45,7 @@
 
 ---
 
-# 📈 ACTIVITY GRAPH
+<h2 align="center"> 📈 ACTIVITY GRAPH </h2>  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashdasha&theme=react-dark&hide_border=true" />
@@ -55,7 +53,7 @@
 
 ---
 
-# 🚀 FEATURED PROJECTS
+<h2 align="center"> 🚀 FEATURED PROJECTS </h2>  
 
 
 <table align="center">
@@ -78,7 +76,7 @@
 
 ---
 
-# 🤖 INTERACTIVE SECTION
+<h2 align="center"> 🤖 INTERACTIVE SECTION </h2>  
 
 <p align="center">
   <a href="https://your-ai-chat-app-link.com">
@@ -88,7 +86,7 @@
 
 ---
 
-# 📄 RESUME & PORTFOLIO
+<h2 align="center"> 📄 RESUME & PORTFOLIO </h2>  
 
 <p align="center">
   <a href="https://github.com/bikashdasha/bikashdasha/blob/main/Bikash_CV.pdf" target="_blank">
@@ -104,7 +102,7 @@
 
 ---
 
-# 📫 CONTACT
+<h2 align="center"> 📫 CONTACT </h2>
 
 <p align="center">
   <a href="mailto:bdash3339@gmail.com">
@@ -118,7 +116,7 @@
 
 ---
 
-# ⚡ QUOTE
+<h2 align="center"> ⚡ QUOTE </h2>  
 
 <p align="center">
   <i>"Consistency beats intensity — every single time."</i>
