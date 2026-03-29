@@ -1,13 +1,12 @@
-<div align="center" style="margin: 20px 0 35px 0;">
+<div align="center" style="margin: 0 0 30px 0;">
   <img 
     src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/gh-pages/profile-night-rainbow.svg" 
-    alt="Bikash Dash - Java Full Stack Developer Banner" 
+    alt="Bikash Dash Banner" 
     style="width: 100%; 
            max-width: 100%; 
-           height: 260px; 
+           height: 240px; 
            object-fit: cover; 
-           display: block; 
-           border-radius: 8px;"
+           display: block;"
   />
 </div>
 <h1 align="center">👋 Hi, I'm Bikash Dash</h1>
