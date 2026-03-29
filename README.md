@@ -1,13 +1,17 @@
-<!-- 🌌 HERO SECTION -->
+<!-- 🌌 PREMIUM NEON HERO -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Bikash%20Dash&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Bikash%20Dash&fontSize=48&fontColor=00F7FF&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=65" />
 </p>
+
+<!-- ⚡ TYPING -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+AWS;Building+Modern+Web+Applications;Welcome+to+my+GitHub+Portfolio" />
 </p>
 
 <!-- 🐍 SNAKE -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/output/github-contribution-grid-snake-dark.svg" width="650"/>
 </p>
@@ -18,14 +22,14 @@
 
 <p align="center">
 💼 Java Full Stack Developer at <b>Tech Mahindra</b> <br/>
-🌱 Learning Microservices & Cloud <br/>
+🌱 Learning Microservices, Cloud & System Design <br/>
 🚀 Passionate about scalable backend systems <br/>
 🤝 Open to collaboration & opportunities
 </p>
 
 ---
 
-# 🧠 SKILLS
+# 🧠 TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,mysql,git,aws" />
@@ -36,7 +40,7 @@
 # 📊 DASHBOARD
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bikashdasha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bikashdasha&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashdasha&theme=tokyonight&hide_border=true" />
 </p>
@@ -51,49 +55,49 @@
 
 ---
 
-# 🚀 PROJECTS
+# 🚀 FEATURED PROJECTS
 
 <table align="center">
 <tr>
-<td>
-
-### 🔹 Portfolio Website  
-- Personal portfolio  
-- Modern UI  
-- Responsive design  
-
+<td align="center" width="300">
+  <a href="https://github.com/bikashdasha/BikashDash_Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=BikashDash_Portfolio&theme=tokyonight" />
+  </a>
 </td>
 
-<td>
-
-### 🔹 AI Chat App  
-- ChatGPT-like project  
-- Real-time responses  
-- AI integration  
-
+<td align="center" width="300">
+  <a href="https://github.com/bikashdasha/ai-chat-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=ai-chat-project&theme=tokyonight" />
+  </a>
 </td>
 </tr>
 
 <tr>
-<td>
-
-### 🔹 Dashboard System  
-- Admin dashboard  
-- Data visualization  
-- Role-based access  
-
+<td align="center" width="300">
+  <a href="https://github.com/bikashdasha/Dashboard-main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=Dashboard-main&theme=tokyonight" />
+  </a>
 </td>
 
-<td>
-
-### 🔹 Tech Articles  
-- Learning notes  
-- Backend + frontend  
-- Structured content  
-
+<td align="center" width="300">
+  <a href="https://github.com/bikashdasha/bikash-tech-articles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bikashdasha&repo=bikash-tech-articles&theme=tokyonight" />
+  </a>
 </td>
 </tr>
 </table>
+
+---
+
+# 📸 PROJECT PREVIEW
+
+<p align="center">
+  <img src="https://via.placeholder.com/500x250?text=Portfolio+Project+Preview" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/500x250?text=AI+Chat+App+Preview" width="500"/>
+</p>
 
 ---
 
@@ -102,6 +106,22 @@
 <p align="center">
   <a href="https://your-ai-chat-app-link.com">
     <img src="https://img.shields.io/badge/🤖%20Talk%20to%20My%20AI-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+# 📄 RESUME & PORTFOLIO
+
+<p align="center">
+  <a href="./assets/Bikash_Dash_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-black?style=for-the-badge" />
   </a>
 </p>
 
