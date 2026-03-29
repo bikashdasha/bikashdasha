@@ -57,7 +57,6 @@
 
 # 🚀 FEATURED PROJECTS
 
-# 🚀 FEATURED PROJECTS
 
 <table align="center">
 <tr>
@@ -76,18 +75,6 @@
 
 </tr>
 </table>
-
----
-
-# 📸 PROJECT PREVIEW
-
-<p align="center">
-  <img src="https://via.placeholder.com/500x250?text=Portfolio+Project+Preview" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/500x250?text=AI+Chat+App+Preview" width="500"/>
-</p>
 
 ---
 
