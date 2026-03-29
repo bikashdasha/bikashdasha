@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/gh-pages/profile-green-animate.svg"
+    src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/gh-pages/profile-night-rainbow.svg"
     style="width: 100%; height: 180px; object-fit: cover;"
   />
 </p>
