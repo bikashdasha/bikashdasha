@@ -1,63 +1,69 @@
-<!-- 🔝 Snake Banner -->
+<!-- 🔝 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Bikash+Dash;Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+AWS;Building+Scalable+Web+Apps" />
+</p>
+
+<!-- 🐍 Snake Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/bikashdasha/bikashdasha/output/github-contribution-grid-snake-dark.svg" width="700"/>
 </p>
+
 <br>
+
 <h1 align="center">👋 Hi, I'm Bikash Dash</h1>
-
-<h3 align="center">💻 A Passionate Java Full Stack Developer from India</h3>
-
----
-
-### 🔭 About Me
-- 💼 Currently working at *Tech Mahindra* as a *Java Full Stack Developer*
-- 🌱 Continuously learning *Spring Boot, Angular, MySQL, REST APIs*
-- 🤝 Open to collaborating on impactful full-stack projects
-- 💡 Keen interest in *Microservices, **Cloud-native applications, and **System Design*
+<h3 align="center">💻 Java Full Stack Developer | Spring Boot | Angular</h3>
 
 ---
 
-### 💬 Ask Me About
-- 🧠 *Java, **Spring Boot, **Hibernate*
-- 🌐 *Angular, **TypeScript, **HTML/CSS*
-- 🔗 *REST APIs, **MySQL, **Git*
-- 🏋️‍♂️ *AWS, **Gen AI
-- ⚙ Full Stack Web Development
+## 🚀 About Me
+- 💼 Working at **Tech Mahindra**
+- 🌱 Learning **Microservices, Cloud & System Design**
+- 🔥 Skilled in **Java, Spring Boot, Angular**
+- 🤝 Open for collaboration & opportunities
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <b>📧 bdash3339@gmail.com</b>
-</p>
+## 🧠 Tech Stack
 
-<p align="left">
-  <!-- Instagram Icon -->
- <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/bikash-dash-8b9221235" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,mysql,git,aws" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> I love building clean and efficient backend logic with seamless frontend integration 🚀
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bikashdasha&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashdasha&theme=tokyonight" />
+</p>
 
 ---
 
-<h4 align="center">“Consistency beats intensity — every single time.”</h4>
-
-
-
-### 📊 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikashdasha&theme=react-dark" />
 </p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bikash-dash-8b9221235">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:bdash3339@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
 </p>
+
+---
+
+## ⚡ Fun Fact
+> Consistency beats intensity — every single time 🚀
