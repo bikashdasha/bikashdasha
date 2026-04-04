@@ -38,7 +38,7 @@
 <h2 align="center"> 📊 DASHBOARD </h2>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bikashdasha&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
+  <img src="https://raw.githubusercontent.com/bikashdasha/github-readme-stats/master/api?username=bikashdasha&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashdasha&theme=tokyonight&hide_border=true" />
 </p>
