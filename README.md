@@ -38,10 +38,9 @@
 <h2 align="center"> 📊 DASHBOARD </h2>  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bikashdasha&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashdasha&theme=tokyonight&hide_border=true" />
-
+  <br/>
   <!-- Custom Tech Stack Badges -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
