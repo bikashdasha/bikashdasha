@@ -41,6 +41,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=bikashdasha&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bikashdasha&theme=tokyonight&hide_border=true" />
+
+  <!-- Custom Tech Stack Badges -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
