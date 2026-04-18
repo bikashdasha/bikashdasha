@@ -30,7 +30,14 @@
 <h2 align="center"> 🧠 TECH STACK </h2>  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,mysql,git,aws" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,mysql,git,aws,ai" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-indigo?style=for-the-badge" />
 </p>
 
 ---
