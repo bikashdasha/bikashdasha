@@ -1,12 +1,11 @@
 <!-- 🌌 PREMIUM NEON HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=230&section=header&text=Bikash%20Dash&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=65&descColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=230&section=header&text=Bikash%20Dash&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=Java%20Backend%20Developer%20%7C%20GenAI%20Enthusiast&descSize=20&descAlignY=65&descColor=FFFFFF" />
 </p>
 
 <!-- ⚡ TYPING -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=000000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+AWS;Building+Modern+Web+Applications;Clean+Code+%7C+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=000000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+AWS;Building+Scalable+Distributed+Systems;Exploring+GenAI+%7C+LLMs+%7C+Ollama" />
 </p>
 
 <!-- 🐍 SNAKE -->
