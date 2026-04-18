@@ -17,12 +17,15 @@
 
 ---
 
-<h2 align="center">👨‍💻 ABOUT ME</h2>
+<h2 align="center">👨‍💻 About Me</h2>
+
 <p align="center">
-💼 Java Full Stack Developer at <b>Tech Mahindra</b> <br/>
-🌱 Learning Microservices, Cloud & System Design <br/>
-🚀 Passionate about scalable backend systems <br/>
-🤝 Open to collaboration & opportunities
+💼 <b>Java Backend Developer</b> at <b>Tech Mahindra</b> <br/>
+⚙️ Designing and developing scalable, high-performance backend systems using Java & Spring Boot <br/>
+☁️ Hands-on with Microservices Architecture, AWS Cloud, and System Design principles <br/>
+🤖 Expanding expertise in Generative AI, Large Language Models (LLMs), and Ollama <br/>
+📈 Focused on building efficient, reliable, and production-ready applications <br/>
+🤝 Open to impactful collaborations and growth opportunities
 </p>
 
 ---
