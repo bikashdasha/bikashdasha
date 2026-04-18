@@ -117,16 +117,28 @@
 ---
 
 <h2 align="center"> 📫 CONTACT </h2>
-
 <p align="center">
   <a href="mailto:bdash3339@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bikash-dash-8b9221235">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
+  <a href="https://github.com/bikashdasha">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://skillicons.dev/icons?i=discord" width="40"/>
+  </a>
 </p>
+
+
 
 ---
 
