@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: bikashdasha
-          color_snake: "#8B0000"
+          color_snake: "#F70000"
           palette: "github-dark"
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
